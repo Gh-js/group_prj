@@ -8,6 +8,8 @@ public class Test {
 		
 		
 		System.out.println("합병");
+		System.out.println("토큰");
+		
 	}
 
 }
